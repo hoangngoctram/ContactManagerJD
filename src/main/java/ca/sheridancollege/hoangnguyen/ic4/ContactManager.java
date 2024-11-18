@@ -36,6 +36,5 @@ public class ContactManager {
     public ArrayList<Contact> getContactList() {
         return contactList;
     }
-    //This is the new coment line I added
 }
 
