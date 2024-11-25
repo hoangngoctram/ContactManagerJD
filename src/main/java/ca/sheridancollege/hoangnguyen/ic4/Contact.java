@@ -11,7 +11,7 @@ package ca.sheridancollege.hoangnguyen.ic4;
 public class Contact {
    
    //This is a comment I made directly in github
-
+    //This is a comment made on the Friend branch
    private String firstName;
     private String lastName;
     private String emailAddress;

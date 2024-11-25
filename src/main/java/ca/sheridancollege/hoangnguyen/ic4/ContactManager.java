@@ -7,6 +7,7 @@ package ca.sheridancollege.hoangnguyen.ic4;
 import java.util.ArrayList;
 
 public class ContactManager {
+   
     private ArrayList<Contact> contactList = new ArrayList<>();
 
     // Add a new contact
