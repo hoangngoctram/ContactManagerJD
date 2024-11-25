@@ -10,8 +10,8 @@ package ca.sheridancollege.hoangnguyen.ic4;
  */
 public class IC4 {
     private int myProperty;
-    public
-
+   public int getMyProperty(){
+   return myProperty;}
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
