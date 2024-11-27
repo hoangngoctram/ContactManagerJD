@@ -9,6 +9,8 @@ package ca.sheridancollege.hoangnguyen.ic4;
  * @author cenanguyen
  */
 public class Contact {
+   
+   //This is a comment I made directly in github
 
    private String firstName;
     private String lastName;
